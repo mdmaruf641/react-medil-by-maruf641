@@ -1,0 +1,10 @@
+.cart {
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+.cart:hover {
+  box-shadow: 2px 2px 10px gray;
+}

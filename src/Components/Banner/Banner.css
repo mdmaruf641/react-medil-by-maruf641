@@ -1,0 +1,32 @@
+.banner {
+  background-image: url(../../images/Banner&Background/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  padding: 100px 0;
+  width: 100%;
+}
+
+.bnr-dtls h1 {
+  font-size: 48px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.bnr-dtls h3 {
+  color: #fff;
+  font-size: 35px;
+}
+
+.bnr-btn {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+}
+
+.bnr-btn:hover {
+  background-color: #0557b3;
+  color: #fff;
+}

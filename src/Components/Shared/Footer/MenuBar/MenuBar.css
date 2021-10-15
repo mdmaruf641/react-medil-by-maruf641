@@ -1,0 +1,29 @@
+.items {
+  font-size: 20px;
+  margin: 0 10px;
+  font-weight: 500;
+}
+.items:hover {
+  color: #2b3c68 !important;
+}
+.main-menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+/* Responsiveness */
+@media only screen and (max-width: 688px) {
+  .main-menu {
+    background-color: #07a8ff;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 688px) and (max-width: 992px) {
+  .main-menu {
+    background-color: #07a8ff;
+    text-align: center;
+  }
+}
